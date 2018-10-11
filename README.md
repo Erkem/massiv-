@@ -11,7 +11,7 @@ int main()
  max=T[1];
  if (T[i]<0 && T[i]>max) max=T[i];
 
- printf("max=%d\n",max);
+ printf("max=%s\n",max);
 
 }
 }
